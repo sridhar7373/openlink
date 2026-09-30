@@ -1,0 +1,11 @@
+# Build files
+build/
+
+# Identity secrets
+identity.key
+
+# Executables
+*.exe
+
+# Object files
+*.o
