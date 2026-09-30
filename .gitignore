@@ -2,7 +2,7 @@
 build/
 
 # Identity secrets
-identity.key
+*.key
 
 # Executables
 *.exe
